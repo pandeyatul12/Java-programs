@@ -12,8 +12,8 @@ public class Calci {
     public static void calciFun(int a,int b, String op){
         switch(op){
             case ("+"): {
-                        System.out.println(a+b);
-                        break;
+            System.out.println(a+b);
+            break;
             }
             case ("-"): {
             System.out.println(a-b);
